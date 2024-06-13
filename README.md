@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA's Generativas na Medicina
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+As Inteligências Artificiais generativas têm um papel cada vez mais importante na saúde humana, com aplicações em diversas áreas que vão desde a pesquisa médica até o cuidado com o paciente. Aqui apresento um vídeo gerado por IA com um avatar falando um texto gerado também por outra IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT 3.5 para o texto
+D-ID para o vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Neste projeto utilizei o ChatGPT 3.5 gerando um texto a partir de um prompt simples solicitando ``Fale-me sobre o papel das IA's generativas na saúde humana``.
+Com o texto gerado, alimentei a IA geradora de vídeos D-ID com o conteúdo gerado em texto pelo ChatGPT
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Você pode assistir o vídeo [AQUI](https://youtu.be/mFx7F83R6cM)
+* Arquivo de vídeo superior a 25mb, não-aceito no GitHub, optado por hospeda-lo no youtube.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Conforme a humanidade avança cientificamente, podemos cada vez mais fazer uso das inteligências artificiais para que possamos focar em pesquisa e desenvolvimento
